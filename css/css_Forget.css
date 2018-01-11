@@ -1,0 +1,112 @@
+.paper_forgotpwd
+{
+ margin-top:80px;
+ margin-left:300px;
+ width:700px;
+ height:auto;
+ padding:20px;
+ 
+ padding-bottom:50px;
+ clear:both;
+ float:left;
+ background-color:#FFFFFF;
+ background-image:url(../img/templatemo_sidebar_section_bottom1.jpg);
+ background-position:bottom;
+ background-repeat:no-repeat;
+ background-size:contain;	
+	
+}
+.form_forget
+{
+ clear:both;
+ float:left;
+ margin-top:50px;
+ margin-left:180px;
+ 
+ color:#06F;
+ font-family:"Comic Sans MS", cursive;
+ font-size:23px;
+}
+
+.about_need
+{
+ float:left;
+ margin-top:10px;
+ margin-left:300px;
+ box-shadow:-1px -1px 1px #000;
+ width:300px;
+ //height:180px;
+ padding:0px 20px 10px;
+ background-color:#06f;
+ display:none;
+}
+
+.about_need p
+{
+ padding:0px;
+ color:#FFF;
+ font-family:"Comic Sans MS", cursive;
+ font-size:15px;
+}
+
+#process_text /*for dispaly succcessfully Process*/
+{
+ clear:both;
+ float:left;
+ width:inherit;
+ margin-top:30px;
+ margin-bottom:-10px;
+ padding:6px 0px 8px;
+ text-align:center;
+ /*color:#06F;
+ font-family:"Comic Sans MS", cursive;*/
+ font-size:23px;
+ border-bottom:2px solid #06f;
+ border-top:2px solid #06f;
+ display:none;
+}
+
+.process
+{
+ clear:both;
+ float:left;
+ margin-top:60px;
+ margin-left:80px;
+ /*color:#06F;
+ font-family:"Comic Sans MS", cursive;*/
+ font-size:18px;
+ display:none;
+}
+
+.process input
+{
+ padding:3px;
+ font-family:"Comic Sans MS", cursive;
+ font-size:15px;
+ border:1px solid #00f;
+}
+
+#submit_forget/*same as Contact_Us and Sign _Up*/
+{
+  clear:both;
+	float:left;
+	margin-left:60px;
+	padding:6px 20px;
+	font-size:15px;
+	border:0px;
+}
+
+#submit_forget:hover , .send:hover
+{
+ background-color:#008080;
+}
+
+.send
+{
+	clear:both;
+	float:left;
+	margin-left:60px;
+	padding:6px 20px;
+	font-size:15px;
+	border:0px;
+}

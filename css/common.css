@@ -1,0 +1,189 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+ width:1350px;
+ margin:0 auto;
+}
+
+a
+{
+ text-decoration:none;
+}
+
+/*=================Logo & Search Bar : Start===================*/
+.header
+{
+ clear:both;
+ float:left;
+ background-image:url(../img/templatemo_header.jpg);
+ background-color:#fff;
+ background-position:center;
+ background-repeat:no-repeat;
+ width:inherit;
+ height:200px;
+}
+
+.logo
+{
+ float:left;
+ margin-left:250px;
+ }
+
+.logo img
+{
+ width:270px;
+ height:100px;
+}
+
+.searchbar
+{
+ float:right;
+ margin-top:10px;
+}
+/*
+#sbutton
+{
+ clear:both;
+ float:right;
+ background-color:#FFFFFF;
+ border:0px;
+ padding:5px 20px;  
+ font-family:"MS Serif", "New York", serif;
+ font-size:18px;
+ color:#008080; //#888888;
+}
+
+#sbutton:hover
+{
+ background-color:#008080;
+ color:#FFF;	
+}
+
+#search
+{
+ clear:none;
+ float:right;
+ padding:5px;
+ margin-right:20px;
+ font-family:"MS Serif", "New York", serif;
+ font-size:18px;
+ color:#008080; //#666;
+}
+*/
+/*=================Logo & Search Bar : End===================*/
+
+.tbox
+{
+border: 1px dotted #000000; 
+    outline:0; 
+    height:40px; 
+    width: 175px;
+	border-radius:13px;
+
+}
+/*--------------Toolbar----------------*/
+.toolbar
+{
+ clear:left;
+ float:left;
+ width:inherit;
+ background-image:url(../img/templatemo_menu.jpg);
+ background-repeat:repeat-x;
+ height:90px;
+}
+
+.toolbar div
+{
+ margin-left:230px;
+}
+
+.toolbar div a /* For All Tools*/
+{
+ float:left;
+ font-size:20px;
+ font-family:"MS Serif", "New York", serif;
+ color:#000;
+ width: 152px;
+ padding:45px 0px 20px;
+ margin-right:35px;
+ text-align: center;
+ font-weight: bold;
+ outline: medium none;
+}
+
+.toolbar div a:hover , .active
+{
+ color:#008080;
+ background-image:url(../img/templatemo_menu_hover.jpg);
+ background-repeat:no-repeat;
+}
+/*---------Toolbar-------------*/
+
+.body
+{
+ clear:both;
+ float:left;
+ width:inherit;
+ height:auto;
+// padding-bottom:50px;
+ background-color:#008080;
+}
+
+.footer
+{
+ clear:both;
+ float:left;
+ width:inherit;
+ background-image:url(../img/templatemo_footer_top.jpg);
+ background-repeat:repeat-x;
+ background-position:top;
+ background-color:#FFFFFF;
+}
+
+.footer p
+{
+ float:left;
+ margin-top:30px;
+ margin-left:360px;
+ font-size:18px;
+ font-family:"MS Serif", "New York", serif;
+ color:#000;	
+}
+
+/*
+
+.normal
+{
+		border:solid 1px black;	
+}
+.error 
+{
+		border:solid 1px red;	
+}
+.submit
+{
+ clear:both;
+ float:left;
+ margin-bottom:100px;
+ margin-left:150px;
+ margin-top:20px;
+ width:80px;
+ text-align:center;
+ font-family:"Times New Roman", Times, serif;
+ font-size:15px;
+ color:#F00;
+}
+.reset
+{
+ clear:both;
+ float:left;
+ margin-bottom:500px;
+ margin-left:350px;
+ margin-top:30px;
+ width:80px;
+ text-align:center;
+ font-family:Verdana, Geneva, sans-serif;
+ font-size:15px;
+ color:#F00;
+}*/

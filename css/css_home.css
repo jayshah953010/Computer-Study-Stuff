@@ -1,0 +1,67 @@
+.paper_css
+{
+ margin-top:80px;
+ margin-left:100px;
+ width:700px;
+ height:325px;
+ padding:20px;
+ 
+ clear:both;
+ float:left;
+ background-color:#FFFFFF;
+ background-image:url(../img/templatemo_sidebar_section_bottom1.jpg);
+ background-position:bottom;
+ background-repeat:no-repeat;
+ background-size:contain;
+}
+.logo_paper1
+{
+ margin-top:10px;
+ width:100px;
+ height:200px;
+}
+
+.paper_newsletter
+{
+ margin-top:6px;
+ margin-left:100px;
+ width:250px;
+ height:auto;
+ padding:20px;
+ 
+ padding-bottom:37px;
+ float:left;
+ background-color:#FFFFFF;
+ background-image:url(../img/templatemo_sidebar_section_bottom1.jpg);
+ background-position:bottom;
+ background-repeat:no-repeat;
+ background-size:contain;
+}
+/*=================Newsletter===================*/
+
+.newsletter {
+ padding: 0px 20px;
+ background: #fff;
+}
+.newsletter_submit_button
+{
+    clear:both;
+	float:left;
+	margin-left:60px;
+	padding:6px 20px;
+	font-size:15px;
+	border:0px;
+}
+
+.newsletter_submit_button:hover
+{
+ background-color:#008080;	
+}
+
+.newsletter input
+{
+ padding:5px;
+ border:1px solid #008080;
+ font-size:14px;
+ color:#008080;	
+}

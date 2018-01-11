@@ -1,0 +1,16 @@
+.paper_cat{ 
+ margin-top:80px;
+ margin-left:160px;
+ width:1000px;
+ height:auto;
+ padding:20px;
+ 
+ padding-bottom:80px;
+ clear:both;
+ float:left;
+ background-color:#FFFFFF;
+ background-image:url(../img/templatemo_sidebar_section_bottom1.jpg);
+ background-position:bottom;
+ background-repeat:no-repeat;
+ background-size:contain;
+}

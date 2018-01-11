@@ -1,0 +1,61 @@
+/*.form_feedback1 textarea
+{
+ padding:5px;
+ border:1px solid #008080;
+ font-size:14px;
+ color:#008080;	
+}*/
+.paper_feedback
+{
+ margin-top:80px;
+ margin-left:160px;
+ width:1000px;
+ height:auto;
+ padding:20px;
+ 
+ padding-bottom:100px;
+ clear:both;
+ float:left;
+ background-color:#FFFFFF;
+ background-image:url(../img/templatemo_sidebar_section_bottom1.jpg);
+ background-position:bottom;
+ background-repeat:no-repeat;
+ background-size:contain;
+}
+
+.form_feedback
+{
+ clear:both;
+ float:left;
+ /*color:#008080;
+ /*font-family:"Comic Sans MS", cursive;*/
+ font-size:18px;
+ margin-left:25%;
+ margin-top:7px;
+/* width:700px;
+ height:500px;*/	
+}
+
+.submit_feedback
+{
+	clear:both;
+	float:left;
+	margin-left:125px;
+	padding:6px 20px;
+	font-size:15px;
+	border:0px;
+}
+
+.submit_feedback:hover
+{
+ background-color:#008080;	
+}	
+
+.form_feedback1
+{
+ padding:5px;
+ border:0px solid #008080;
+ font-size:14px;
+ color:#008080;
+ margin-left:150px;	
+}

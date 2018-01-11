@@ -1,0 +1,74 @@
+.paper_contactus
+{
+ margin-top:80px;
+ margin-left:160px;
+ width:1000px;
+ height:auto;
+ padding:20px;
+ 
+ padding-bottom:80px;
+ clear:both;
+ float:left;
+ background-color:#FFFFFF;
+ background-image:url(../img/templatemo_sidebar_section_bottom1.jpg);
+ background-position:bottom;
+ background-repeat:no-repeat;
+ background-size:contain;
+}
+
+.form_contactus1
+{
+ clear:both;
+ float:left;
+ color:#008080;
+ /*font-family:"Comic Sans MS", cursive;*/
+ font-size:18px;
+ margin-left:25%;
+ margin-top:7px;
+ width:700px;
+ height:500px;
+}
+
+.form_contactus1 input
+{
+ padding:5px;
+ border:1px solid #008080;
+ font-size:14px;
+ color:#008080;	
+}
+
+.submit_contactus
+{
+	clear:both;
+	float:left;
+	margin-left:407px;
+	padding:6px 20px;
+	font-size:15px;
+	border:0px;
+}
+
+.submit_contactus:hover
+{
+ background-color:#008080;	
+}	
+
+/*.submit
+{
+ clear:both;
+ float:left;
+ margin-left:417px;
+ width:120px;
+ text-align:center;
+ /*font-family:"Comic Sans MS", cursive;*/
+ /*font-size:20px;
+ color:#008080;
+ padding:0px;
+}*/
+/*.form_contactus1 input , .form_contactus1 textarea
+{
+ padding:3px;
+ font-family:"Comic Sans MS", cursive;
+ font-size:15px;
+ border-radius:3px;
+ border-style:ridge;
+}*/
